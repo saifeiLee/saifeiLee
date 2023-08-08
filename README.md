@@ -1,5 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Walter Mitty.</h1>
 
+- 🌱 I’m currently learning Linux & Python & C++.
+- 📫 How to reach me: <waltermitty121906@gmail.com>
 <!--
 **saifeiLee/saifeiLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
