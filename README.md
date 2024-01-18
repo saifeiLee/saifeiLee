@@ -6,13 +6,10 @@
 
 ## 我的工作经历
 
-- 2019-2021, web前端开发工程师, 做过小程序、electron、编辑器开发
-- 2022-至今, C++开发工程师, 了解过云桌面、Linux发行版定制、Chromium定制开发、QT开发
+- 🌱 2019-2021, web前端开发工程师, 做过小程序、electron、编辑器开发
+- 🌱 2022-至今, C++开发工程师, 了解过云桌面、Linux发行版定制、Chromium定制开发、QT开发
 
-
-
-- 🌱 I’m currently learning Linux & Python & C++.
-- 📫 How to reach me: <waltermitty121906@gmail.com>
+如何联系我: <waltermitty121906@gmail.com>
 
 <h3 align="left">Languages and Tools:</h3>
 
