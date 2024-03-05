@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'am Walter Mitty.</h1>
 
-I want to build something useful. If you have any idea, please let me know.
+Experience and feel the world.
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Heal+the+world%2C+make+it+a+better+place)](https://git.io/typing-svg)
 
 <h3 align="left">Languages and Tools:</h3>
 
