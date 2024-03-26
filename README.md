@@ -2,6 +2,8 @@
 
 Experience and feel the world.
 
+[Career path review](https://heal-the-world-make-it-a-better-placecom.notion.site/231030e147be4d0597dd960b3d2cb2c1?pvs=74)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Heal+the+world%2C+;make+it+a+better+place.)](https://git.io/typing-svg)
 
 <h3 align="left">Languages and Tools:</h3>
