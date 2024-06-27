@@ -31,3 +31,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 访问统计
+
+![Visitor Count](https://profile-counter.glitch.me/saifeiLee/count.svg)
