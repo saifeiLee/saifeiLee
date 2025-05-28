@@ -1,7 +1,11 @@
 <h1 align="center">Hi, I'am Walter Mitty.</h1>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Heal+the+world%2C+;make+it+a+better+place.)](https://git.io/typing-svg)
+<h3>Personal Website</h3>
+
+[白日梦想家](https://heal-the-world-make-it-a-better-placecom.notion.site/1d223925ebf88049bd25e3021f390c5a)
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -28,6 +32,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 访问统计
+### Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/saifeiLee/count.svg)
+
+
+### Slogan
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Heal+the+world%2C+;make+it+a+better+place.)](https://git.io/typing-svg)
